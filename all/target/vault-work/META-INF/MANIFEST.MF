@@ -1,0 +1,12 @@
+Manifest-Version: 1.0
+Created-By: Apache Jackrabbit FileVault - Package Maven Plugin 1.1.6
+Build-Jdk-Spec: 11
+Implementation-Title: Venia - All
+Implementation-Version: 2022.02.25-SNAPSHOT
+Implementation-Vendor: Adobe
+Content-Package-Type: container
+Content-Package-Id: com.adobe.aem.guides:aem-cif-guides-venia.all:2022.0
+ 2.25-SNAPSHOT
+Content-Package-Description: All content package for Venia
+Content-Package-Roots: /apps/venia-packages,/apps/venia-vendor-packages
+

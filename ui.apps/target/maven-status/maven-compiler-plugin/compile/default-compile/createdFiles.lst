@@ -1,0 +1,10 @@
+org/apache/sling/scripting/sightly/apps/venia/components/xfpage/customheaderlibs_html.class
+org/apache/sling/scripting/sightly/apps/venia/components/xfpage/content_html.class
+org/apache/sling/scripting/sightly/apps/venia/components/heroimage/heroimage_html.class
+org/apache/sling/scripting/sightly/apps/venia/components/page/customheaderlibs_html.class
+org/apache/sling/scripting/sightly/apps/venia/components/commerce/logo/logo_html.class
+org/apache/sling/scripting/sightly/apps/venia/components/page/customfooterlibs_html.class
+org/apache/sling/scripting/sightly/apps/venia/components/xfpage/customfooterlibs_html.class
+org/apache/sling/scripting/sightly/apps/venia/components/commerce/catalogpage/customheaderlibs_html.class
+org/apache/sling/scripting/sightly/apps/venia/components/commerce/productteaser/productteaser_html.class
+org/apache/sling/scripting/sightly/apps/venia/components/commerce/catalogpage/customfooterlibs_html.class

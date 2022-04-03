@@ -1,0 +1,35 @@
+Manifest-Version: 1.0
+Bnd-LastModified: 1648739168168
+Bundle-Description: Core bundle for Venia
+Bundle-Developers: aem-cif-guides-venia;organization=Adobe;organizatio
+ nUrl="https://www.adobe.com"
+Bundle-DocURL: https://github.com/adobe/aem-cif-guides-venia/aem-cif-g
+ uides-venia.core
+Bundle-License: "The Apache License, Version 2.0";link="http://www.apa
+ che.org/licenses/LICENSE-2.0.txt"
+Bundle-ManifestVersion: 2
+Bundle-Name: Venia - Core
+Bundle-SCM: url="https://github.com/adobe/aem-cif-guides-venia/tree/ma
+ in/aem-cif-guides-venia.core/",connection="scm:git:https://github.com
+ /adobe/aem-cif-guides-venia.git/aem-cif-guides-venia.core",developer-
+ connection="scm:git:https://github.com/adobe/aem-cif-guides-venia.git
+ /aem-cif-guides-venia.core",tag=HEAD
+Bundle-SymbolicName: aem-cif-guides-venia.core
+Bundle-Vendor: Adobe
+Bundle-Version: 2022.2.25.202203311506
+Created-By: 11.0.13 (Azul Systems, Inc.)
+Import-Package: javax.annotation;version="0.0.0",com.adobe.cq.commerce
+ .core.components.datalayer;version="[2.0,3)",com.adobe.cq.commerce.co
+ re.components.models.common;version="[2.1,3)",com.adobe.cq.commerce.c
+ ore.components.models.productteaser;version="[3.1,4)",com.adobe.cq.co
+ mmerce.core.components.models.retriever;version="[2.0,3)",com.adobe.c
+ q.commerce.magento.graphql;version="[9.0,10)",com.adobe.cq.wcm.core.c
+ omponents.models.datalayer;version="[1.3,2)",org.apache.sling.api;ver
+ sion="[2.3,3)",org.apache.sling.api.resource;version="[2.10,3)",org.a
+ pache.sling.models.annotations;version="[1.5,2)",org.apache.sling.mod
+ els.annotations.injectorspecific;version="[1.1,2)",org.apache.sling.m
+ odels.annotations.via;version="[1.0,2)"
+Private-Package: com.venia.core.models.commerce;version="1.0"
+Require-Capability: osgi.ee;filter:="(&(osgi.ee=JavaSE)(version=1.8))"
+Tool: Bnd-6.2.0.202202251641
+

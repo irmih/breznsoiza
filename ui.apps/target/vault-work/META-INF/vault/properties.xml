@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
+<properties>
+<comment>Venia - UI apps</comment>
+<entry key="allowIndexDefinitions">false</entry>
+<entry key="dependencies-locations">adobe/aem650:core-cif-components-apps:2.6.0=maven:com.adobe.commerce.cif:core-cif-components-apps:2.6.0:zip,adobe/aem650:core-cif-components-config:2.6.0=maven:com.adobe.commerce.cif:core-cif-components-config:2.6.0:zip,adobe/aem650:core-cif-components-extensions-product-recs-content:2.6.0=maven:com.adobe.commerce.cif:core-cif-components-extensions-product-recs-content:2.6.0:zip</entry>
+<entry key="created">2022-03-31T15:06:48.432Z</entry>
+<entry key="groupId">com.adobe.aem.guides</entry>
+<entry key="description">UI apps package for Venia</entry>
+<entry key="version">2022.02.25-SNAPSHOT</entry>
+<entry key="packageType">application</entry>
+<entry key="requiresRoot">false</entry>
+<entry key="dependencies">adobe/aem650:core-cif-components-apps:2.6.0,adobe/aem650:core-cif-components-config:2.6.0,adobe/aem650:core-cif-components-extensions-product-recs-content:2.6.0</entry>
+<entry key="cloudManagerTarget">none</entry>
+<entry key="name">aem-cif-guides-venia.ui.apps</entry>
+<entry key="artifactId">aem-cif-guides-venia.ui.apps</entry>
+<entry key="group">com.adobe.aem.guides</entry>
+</properties>

@@ -1,0 +1,27 @@
+Manifest-Version: 1.0
+Created-By: Apache Jackrabbit FileVault - Package Maven Plugin 1.1.6
+Build-Jdk-Spec: 11
+Implementation-Title: Venia - UI apps
+Implementation-Version: 2022.02.25-SNAPSHOT
+Implementation-Vendor: Adobe
+Content-Package-Type: application
+Content-Package-Id: com.adobe.aem.guides:aem-cif-guides-venia.ui.apps:20
+ 22.02.25-SNAPSHOT
+Content-Package-Description: UI apps package for Venia
+Content-Package-Dependencies: adobe/aem650:core-cif-components-apps:2.6.
+ 0,adobe/aem650:core-cif-components-config:2.6.0,adobe/aem650:core-cif-c
+ omponents-extensions-product-recs-content:2.6.0
+Content-Package-Dependencies-Locations: adobe/aem650:core-cif-components
+ -apps:2.6.0=maven:com.adobe.commerce.cif:core-cif-components-apps:2.6.0
+ :zip,adobe/aem650:core-cif-components-config:2.6.0=maven:com.adobe.comm
+ erce.cif:core-cif-components-config:2.6.0:zip,adobe/aem650:core-cif-com
+ ponents-extensions-product-recs-content:2.6.0=maven:com.adobe.commerce.
+ cif:core-cif-components-extensions-product-recs-content:2.6.0:zip
+Content-Package-Roots: /apps/venia/clientlibs,/apps/venia/components,/ap
+ ps/venia/i18n
+Import-Package: com.adobe.cq.commerce.core.components.models;version="[1
+ .12.0,2.0.0)",com.adobe.cq.commerce.core.components.models.header;versi
+ on="[3.0.0,4.0.0)",com.adobe.cq.wcm.core.components.models;version="[12
+ .23.0,13.0.0)",com.venia.core.models.commerce,org.apache.sling.scriptin
+ g.sightly;version="[2.0.0,3.0.0)"
+

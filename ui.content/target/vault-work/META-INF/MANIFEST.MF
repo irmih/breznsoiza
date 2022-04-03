@@ -1,0 +1,18 @@
+Manifest-Version: 1.0
+Created-By: Apache Jackrabbit FileVault - Package Maven Plugin 1.1.6
+Build-Jdk-Spec: 11
+Implementation-Title: Venia - UI content
+Implementation-Version: 2022.02.25-SNAPSHOT
+Implementation-Vendor: Adobe
+Content-Package-Type: content
+Content-Package-Id: com.adobe.aem.guides:aem-cif-guides-venia.ui.content
+ :2022.02.25-SNAPSHOT
+Content-Package-Description: UI content package for Venia
+Content-Package-Dependencies: com.adobe.aem.guides:aem-cif-guides-venia.
+ ui.apps:2022.02.25-SNAPSHOT
+Content-Package-Dependencies-Locations: com.adobe.aem.guides:aem-cif-gui
+ des-venia.ui.apps:2022.02.25-SNAPSHOT=maven:com.adobe.aem.guides:aem-ci
+ f-guides-venia.ui.apps:2022.02.25-SNAPSHOT:zip
+Content-Package-Roots: /conf/venia,/content/dam/venia,/content/experienc
+ e-fragments/venia,/content/venia,/etc/map.publish
+

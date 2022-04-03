@@ -1,0 +1,7 @@
+com/venia/it/tests/ProductPageIT.class
+com/venia/it/tests/ContentPageIT.class
+com/venia/it/tests/SearchPageIT.class
+com/venia/it/tests/CategoryPageIT.class
+com/venia/it/tests/LandingPageIT.class
+com/venia/it/utils/Utils.class
+com/venia/it/tests/CommerceTestBase.class
